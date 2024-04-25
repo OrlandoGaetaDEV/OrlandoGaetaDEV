@@ -1,5 +1,5 @@
-                                               -BEM-VINDO AO MEU GITHUB-
-                                Meu nome é Orlando e eu sou um estudante de programação
+                                                -BEM-VINDO AO MEU GITHUB-
+                                 Meu nome é Orlando e eu sou um estudante de programação
 
 <div>
 <a href="https://github.com/OrlandoGaetaDEV">
