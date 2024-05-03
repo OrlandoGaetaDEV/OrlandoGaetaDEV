@@ -1,4 +1,4 @@
-                                                \u27A4BEM-VINDO AO MEU GITHU\u27A4
+                                                -BEM-VINDO AO MEU GITHU-
                                  Meu nome é Orlando e eu sou um estudante de programação
 
 <div>
