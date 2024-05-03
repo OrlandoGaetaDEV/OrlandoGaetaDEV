@@ -1,4 +1,4 @@
-                                                -BEM-VINDO AO MEU GITHUB-
+                                                \u27A4BEM-VINDO AO MEU GITHU\u27A4
                                  Meu nome é Orlando e eu sou um estudante de programação
 
 <div>
